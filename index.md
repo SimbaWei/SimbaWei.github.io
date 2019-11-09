@@ -1,5 +1,5 @@
 ## Xing Wei (Ph.D. Candidate)
-
+![](profile.png)
 #### Personal Information
 
 Office: Room 314, Geographical Building, East China Normal University, 3663 N. Zhongshan Rd, Shanghai, China.
