@@ -13,10 +13,12 @@ I share my readings on key words: DSM/KVS/New hardwares/NUMA/Query Optimization 
 
 
 #### Projects
-* **Parallel Scan**
 
 * **Hash Reusing**
 
 * **Shared Cache**
 
 * **Distributed Page-based Memeory Management**
+
+#### Publication
+* **Xing Wei**, Huiqi Hu: Parallel Strategy for Multiple Scan Operations with Data Replication, appear in [WWWJ'2019](<https://link.springer.com/article/10.1007/s11280-018-0625-7>)
