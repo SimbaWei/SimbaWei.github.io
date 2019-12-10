@@ -24,4 +24,4 @@ fine-grained management of cached hash tables at the granularity of chunks can a
 * **Distributed Page-based Memeory Management**
 
 #### Publication
-* **Xing Wei**, Huiqi Hu: Parallel Strategy for Multiple Scan Operations with Data Replication, appear in [WWWJ'2019](<https://link.springer.com/article/10.1007/s11280-018-0625-7>)
+* **Xing Wei**, Huiqi Hu: Parallel Strategy for Multiple Scan Operations with Data Replication, appear in [World Wide Web 22(6): 2561-2587 (2019)](<https://link.springer.com/article/10.1007/s11280-018-0625-7>)
